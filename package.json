@@ -1,0 +1,42 @@
+{
+  "name": "portalcliente",
+  "version": "1.0.0",
+  "description": "Automação portal do cliente ",
+  "main": "index.js",
+  "scripts": {
+    "start:ci": "npx cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/beirario/qa/testes.git"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "PC",
+    "portal",
+    "do",
+    "Cliente",
+    "beira",
+    "rio",
+    "BR",
+    "cypress",
+    "cypress-io",
+    "example",
+    "docker",
+    "docker-compose"
+  ],
+  "author": "Kelvin Bellan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/beirario/qa/testes/issues"
+  },
+  "homepage": "https://gitlab.com/beirario/qa/testes#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  },
+  "dependencies": {
+    "kubernetes": "^1.0.0",
+    "node": "^16.5.0"
+  }
+}

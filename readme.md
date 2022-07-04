@@ -1,9 +1,9 @@
-# Automação Portal do Cliente
+# Automação Para amigos
 ### [Portal do Cliente](https://portaldocliente.stg.calcadosbeirario.app.br/) - Beira rio
 ---
 Projeto desenvolvido para o teste de regressão E2E.
 
-#### :information_source: O projeto de testes foi realizado sobre a aplicação [Portal do Cliente](https://portaldocliente.stg.calcadosbeirario.app.br/), desenvolvida pela equipe da Beira rio =)
+#### :information_source: O projeto de testes foi realizado sobre a aplicação [Portal do Cliente](https://portaldocliente.stg.calcadosbeirario.app.br/), OpenSource =)
 
 ## :books: Conceitos Apresentados na automação
 - Checkpoints
@@ -40,7 +40,6 @@ Após isso, é só escolher a "SPEC" desejada e assistir a execução dos testes
 
 
 ![resultado-cypress-open](https://user-images.githubusercontent.com/80979622/176494744-6f2e5bba-c47c-49df-99e7-c349000fa204.gif)
-
 
 
 OU

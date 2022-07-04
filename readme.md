@@ -3,7 +3,7 @@
 ---
 Projeto desenvolvido para o teste de regressão E2E.
 
-#### :information_source: O projeto de testes foi realizado sobre a aplicação [Portal do Cliente](https://portaldocliente.stg.calcadosbeirario.app.br/), desenvolvida pela equipe da Beira rio=)
+#### :information_source: O projeto de testes foi realizado sobre a aplicação [Portal do Cliente](https://portaldocliente.stg.calcadosbeirario.app.br/), desenvolvida pela equipe da Beira rio =)
 
 ## :books: Conceitos Apresentados na automação
 - Checkpoints

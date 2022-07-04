@@ -14,10 +14,9 @@ Projeto desenvolvido para o teste de regressão E2E.
 
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
-- [Cypress](https://www.cypress.io/)
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
+- [Cypress](https://www.cypress.io/)
 
 ## :checkered_flag: Como Executar o Projeto
 ```bash
@@ -58,5 +57,5 @@ $ npx cypress run
 ##
 Feito com carinho pela equipe de QA :wave: Entre em contato!
 <div> 
-  <a href = "mailto:kelvin_borges@beirario.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kelvin.bellan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

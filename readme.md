@@ -25,13 +25,17 @@ Projeto desenvolvido para o teste de regressão E2E.
 $ git clone https://gitlab.com/beirario/qa/testes.git
 ```
 A execução pode ser feita através da linha de comando ou do próprio framework.
+```bash
+# No terminal do vsCode, execute:
+$ npm i
+```
 - Através da linha de comando:
 ```bash
 # Na pasta cypress, execute:
 $ npx cypress open
 ```
 - Através do framework:
-Basta abrir o Cypress e através da interface dele escolher a pasta do projeto.
+  - Basta abrir o Cypress e através da interface dele escolher a pasta do projeto.
 
 Após isso, é só escolher a "SPEC" desejada e assistir a execução dos testes.
 
